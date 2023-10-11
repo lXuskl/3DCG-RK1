@@ -25,6 +25,7 @@
     <Compile Include="RK1.1.py" />
     <Compile Include="RK1.2.py" />
     <Compile Include="RK1.3.py" />
+    <Compile Include="RK1.4.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.11" />
