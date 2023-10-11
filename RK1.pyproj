@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>3b26cfb5-5dda-4423-8ab2-728451fe8895</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>RK1.py</StartupFile>
+    <StartupFile>RK1.1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,8 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="RK1.py" />
+    <Compile Include="RK1.1.py" />
+    <Compile Include="RK1.2.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.11" />
